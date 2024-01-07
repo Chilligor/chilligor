@@ -23,6 +23,6 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Chilliger) 
 
 </details>
-<details>
 
+[![](https://visitcount.itsvg.in/api?id=Chilligor&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
