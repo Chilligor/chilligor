@@ -1,18 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there+%F0%9F%91%8B;Im+Java+Developer;Discord%3A+%40Chillig3r;Twitch%3A+%40Chilligeroderso)](https://git.io/typing-svg)
-
 <br>
 <img src="https://discord.c99.nl/widget/theme-2/680906702979072148.png"/>
-
 <details>
 
-<summary> 🌐 Socials: </summary>
-  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Chilliger) 
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/ChilligerOderSo) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Chilliger) 
-
-</details>
-<details>
 
 <summary> 💻 Tech Stack: </summary>
 
@@ -26,13 +16,13 @@
 </details>
 <details>
 
-
 <summary> 🌐 Socials: </summary>
   
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ipexadev) 
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/liveipexa) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ipexatweet) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Chilliger) 
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/ChilligerOderSo) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Chilliger) 
 
 </details>
 <details>
+
 
