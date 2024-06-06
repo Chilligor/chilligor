@@ -2,7 +2,11 @@
 <br>
 <img src="https://discord.c99.nl/widget/theme-2/680906702979072148.png"/>
 <details>
+<summary> About me </summary>
+Hallo 👋,
+Ich bin Lian
 
+Ich bin Developer für die Streamer [Wichtiger](https://www.twitch.tv/wichtiger) [Kenjih](https://www.twitch.tv/kenjih) und seinem Netzwerk: Kenjih.de
 
 <summary> 💻 Tech Stack: </summary>
 
