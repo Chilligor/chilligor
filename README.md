@@ -22,9 +22,10 @@ Ich bin Developer für die Streamer [Wichtiger](https://www.twitch.tv/wichtiger)
 
 <summary> 🌐 Socials: </summary>
   
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Chilliger14) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/chilliger_) 
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/ChilligerOderSo) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Chilliger14) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Chilliger14)
+[![Github]([https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white](https://img.shields.io/badge/github-%231DA1F2.svg?logo=github&logoColor=white))](https://github.com/Chilligor)
 
 </details>
 
