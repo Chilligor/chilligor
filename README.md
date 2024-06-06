@@ -8,6 +8,8 @@ Ich bin Lian
 
 Ich bin Developer für die Streamer wie [Wichtiger](https://www.twitch.tv/wichtiger) & [Kenjih](https://www.twitch.tv/kenjih) und seinem Netzwerk: Kenjih.de
 
+</details>
+
 <summary> 💻 Tech Stack: </summary>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) 
