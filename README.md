@@ -8,20 +8,6 @@ Ich bin Lian
 
 Ich bin Developer für die Streamer wie [Wichtiger](https://www.twitch.tv/wichtiger) & [Kenjih](https://www.twitch.tv/kenjih) und seinem Netzwerk: Kenjih.de
 
-</details>
-
-<summary> 💻 Tech Stack: </summary>
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) 
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) 
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) 
-  
-</details>
-<details>
-
 <summary> 🌐 Socials: </summary>
   
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/chilliger_) 
